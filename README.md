@@ -10,7 +10,6 @@ Angular - Framework Web
 ### Autor:
 
 José João Silva - jjoaosilva
-Built With
 
 License
 O projeto é licenciado pela MIT License - veja a LICENSE.md para mais detalhes
