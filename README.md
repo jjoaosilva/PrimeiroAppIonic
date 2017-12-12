@@ -4,13 +4,13 @@ Aplicativo de controle de gastos: ainda sem Banco de dados, porém funcional.
 
 ### Feito com:
 
-Ionic - Framework para aplicativos móveis
-Angular - Framework Web
+* [Ionic](https://ionicframework.com/) - Framework para aplicativos móveis
+* [Angular](https://angular.io/) - Framework Web
 
 ### Autor:
 
-José João Silva - jjoaosilva
+* **José João Silva** - [jjoaosilva](https://github.com/jjoaosilva/)
 
 License
-O projeto é licenciado pela MIT License - veja a LICENSE.md para mais detalhes
+O projeto é licenciado pela MIT License - veja a [LICENSE.md](LICENSE) para mais detalhes
 
