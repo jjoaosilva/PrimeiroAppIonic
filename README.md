@@ -1,6 +1,6 @@
 ## Aplicativo de Controle de Gastos
 
-Aplicativo de controla de gastos: ainda sem Banco de dados, porém funcional. 
+Aplicativo de controle de gastos: ainda sem Banco de dados, porém funcional. 
 
 ### Feito com:
 
