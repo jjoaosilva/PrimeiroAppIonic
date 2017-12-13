@@ -11,7 +11,7 @@ Aplicativo de controle de gastos: ainda sem Banco de dados, porém funcional.
 
 * **José João Silva** - [jjoaosilva](https://github.com/jjoaosilva/)
 
-## Mock up from web site in Development
+## Mock up do app (Android IPhone)
 
 ### Tela Home
 
@@ -29,11 +29,11 @@ Aplicativo de controle de gastos: ainda sem Banco de dados, porém funcional.
 
 ![alt text](https://github.com/jjoaosilva/PrimeiroAppIonic/blob/master/MOCKUP/TelaAdicionar.png?raw=true)
 
-### Tele de Edição de um Gasto
+### Tela de Edição de um Gasto
 
 ![alt text](https://github.com/jjoaosilva/PrimeiroAppIonic/blob/master/MOCKUP/TelaEdicao.png?raw=true)
 
-### Tele de exclusção de um Gasto
+### Tela de exclusão de um Gasto
 
 ![alt text](https://github.com/jjoaosilva/PrimeiroAppIonic/blob/master/MOCKUP/TelaExcluir.png?raw=true)
 
