@@ -15,7 +15,7 @@ Aplicativo de controle de gastos: ainda sem Banco de dados, porém funcional.
 
 ### Tela Home
 
-* Android    iPhone
+* Android               iPhone
 
 ![alt text](https://github.com/jjoaosilva/PrimeiroAppIonic/blob/master/MOCKUP/TelaHome.png?raw=true)
 
