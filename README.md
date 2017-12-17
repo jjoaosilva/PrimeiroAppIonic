@@ -11,7 +11,7 @@ Aplicativo de controle de gastos: ainda sem Banco de dados, porém funcional.
 
 * **José João Silva** - [jjoaosilva](https://github.com/jjoaosilva/)
 
-## Mock up do app (Android, IPhone)
+## Mock up do app (Android, iPhone)
 
 ### Tela Home
 
